@@ -2,6 +2,8 @@
 
 I build modern, responsive, and user-friendly web applications using React and JavaScript.
 
+**Open to frontend development opportunities.**
+
 ## Tech Stack
 
 **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS
@@ -9,6 +11,8 @@ I build modern, responsive, and user-friendly web applications using React and J
 **APIs & Data:** REST APIs
 
 **Tools:** Git, GitHub, VS Code, Vite
+
+**Learning:** TypeScript
 
 ## Projects
 
