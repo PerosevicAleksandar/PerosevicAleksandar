@@ -17,7 +17,9 @@ I build modern, responsive, and user-friendly web applications using React and J
 ## Projects
 
 - React eCommerce App
-- BeFit – Workout Tracking App 
+   **Live Demo:** https://fashion-store-react.netlify.app/
+- BeFit – Workout Tracking App
+   **Live Demo:** https://fitness-companion-kit.lovable.app
 - Angular ToDo App - Mini Project
 - Vue Booking App - Mini Project
 
