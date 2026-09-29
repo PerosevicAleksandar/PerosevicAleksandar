@@ -24,4 +24,4 @@ I build modern, responsive, and user-friendly web applications using React and J
 ## Contact
 
 - Email: perosevica02@gmail.com
-- LinkedIn: /
+- Portfolio: https://portfolio-aleksandar-perosevic.lovable.app
